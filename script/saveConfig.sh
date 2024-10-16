@@ -3,7 +3,7 @@
 files=(
 	"/home/$USER/.tmux.conf tmux"
 	"/home/$USER/.config/i3 i3"
-	"/home/$USER/.config/i3status i3"
+	"/home/$USER/.config/i3status i3status"
 	"/home/$USER/.zshrc zsh"
 )
 
